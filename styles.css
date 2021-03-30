@@ -15,6 +15,43 @@ body {
     display: flex;
     justify-content: center;
     padding-bottom: 8px;
+    position: relative;
+}
+
+.HomeButton {
+    width: 100%;
+    font-size: larger;
+    color: black;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.HomeButton:hover {
+    color: white;
+    transition: all 0.2s;
+}
+
+.HomeButtonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    position: absolute;
+    left: 0px;
+
+    height: 3em;
+    width: 6em;
+    background-color: #00000022;
+    transition: all 0.2s;
+    margin-left: 1em;
+
+}
+
+.HomeButtonContainer:hover {
+    background-color: #00000066;
+    transition: all 0.2s;
 }
 
 .Title-text {
@@ -28,6 +65,12 @@ body {
     display: flex;
     justify-content: right;
     margin: 0px 1em;
+    transition: all 0.2s;
+}
+
+.BottomNavbar:hover {
+    background-color: #00000044;
+    transition: all 0.2s;
 }
 
 .NavLink {
@@ -40,10 +83,12 @@ body {
     margin: 0px 1em;
     border-bottom: 4px solid gray;
     transition: border 0.4s;
-    width: 6em;
+    width: 10em;
+    transition: all 0.2s;
 }
 
 .NavLink:hover {
+    background-color: #ffffff66;
     border-color: palevioletred;
     transition: all 0.2s;
 }
@@ -54,4 +99,9 @@ body {
     background-color: green; /* it will be an SVG later */
 
     margin: 0px -8px;
+}
+
+.SubPage-Title-text {
+    font-size: 2em;
+    border-bottom: 4px solid palevioletred;
 }
