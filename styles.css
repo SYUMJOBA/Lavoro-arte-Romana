@@ -5,6 +5,9 @@ body {
 }
 
 .navbar {
+    position: fixed;
+    width: 100%;
+
     background-color: white;
     padding: 1em 0em;
     margin: -8px -8px 0px -8px;
@@ -94,14 +97,53 @@ body {
 }
 
 .CapitalImage {
-    height: 10em;
+    height: 24em;
     width: auto;
-    background-color: green; /* it will be an SVG later */
+    background-image: url(Capital-Image-sfound.svg);
+    background-size: cover;
 
     margin: 0px -8px;
+}
+
+.CapitalText {
+    margin-top: 8px;
+
+    text-transform: uppercase;
+    color: gray;
+    font-weight: 500;
+    font-size: 4em;
+
+
 }
 
 .SubPage-Title-text {
     font-size: 2em;
     border-bottom: 4px solid palevioletred;
+}
+
+.ContentContainer {
+    margin-top: -2em;
+    margin-left: -8px;
+    margin-right: -8px;
+
+    background-color: white;
+
+    height: 100%;
+
+}
+
+.BottomContentContainer {
+    display: flex;
+    justify-content: center;
+
+    border-left: 4px solid gray;
+    border-right: 4px solid gray;
+}
+
+.SingleContentContainer {
+    font-size: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-top: 4px solid gray;
+    border-bottom: 4px solid gray;
 }
