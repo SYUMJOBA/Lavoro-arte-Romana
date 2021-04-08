@@ -149,3 +149,7 @@ body {
     border-top: 4px solid gray;
     border-bottom: 4px solid gray;
 }
+
+.BottomHomeImage {
+    background-image: url();
+}

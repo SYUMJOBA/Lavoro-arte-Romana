@@ -15,21 +15,17 @@ FORO DI TRAIANO:
     dimostrava l’esistenza di un “procurator Fori Divi Traiani”, che doveva amministrare le attività che
     vi si svolgevano. Probabilmente, inoltre, una delle absidi della Basilica Ulpia aveva ereditato le
     funzioni dell&#39;Atrium Libertatis, dove si svolgevano le cerimonie di manomissione degli schiavi.
-    Siamo anche a conoscenza del fatto che fu sede di cerimonie pubbliche di vario genere:
-    furono promulgate numerose leggi;
-    vennero distribuiti alcuni congiaria al popolo romano;
-    furono pubblicamente bruciati i documenti di archivio che contenevano la registrazione dei debiti
-    verso il fisco condonati da Adriano;
-    Marco Aurelio tenne una vendita all&#39;asta di beni del palazzo imperiale per finanziare le campagne
-    militari contro Germani e Sarmati.
+    Siamo anche a conoscenza del fatto che fu sede di cerimonie pubbliche di vario genere: per
+    esempio vi furono promulgate numerose leggi e in un’occasione vennero distribuiti alcuni congiaria
+    al popolo.
     Le basiliche, poi, erano tradizionalmente sede dei tribunali e dell&#39;attività giudiziaria, e a questo
     scopo potevano servire le absidi. Infine, in epoca tarda, nel Foro si tenevano lezioni e attività
     culturali, presumibilmente nelle esedre dei portici.
     L’ingresso principale doveva essere situato lungo il lato confinante con il Foro di Augusto, dove
     sono stati rinvenuti i resti di un portico colonnato.
     Il fulcro dell’intero monumento era una vasta piazza rettangolare chiusa sul fondo dalla Basilica
-    Ulpia e pavimentata con lastre rettangolari di marmo bianco. Essa presentava un porticato il cui
-    perimetro era percorso da colonne e al centro vi era la statua di Traiano equestre, realizzata in
+    Ulpia e pavimentata con lastre rettangolari di marmo bianco. Essa era delimitata da un porticato il
+    cui perimetro era percorso da colonne e al centro vi era la statua di Traiano equestre, realizzata in
     bronzo nel periodo contemporaneo alla costruzione del Foro.
     I portici laterali, rialzati da due gradini rispetto alla quota della piazza, avevano una considerevole
     ampiezza. Vi si aprivano due ampie esedre semicircolari coperte, separate dai portici da un
@@ -38,24 +34,23 @@ FORO DI TRAIANO:
     di tre statue acefale in marmo di Taso, leggermente più grandi delle dimensioni classiche: un
     loricato, un togato e un altro personaggio seduto, che dovevano probabilmente raffigurare
     personaggi di rango imperiale.
-    Sul lato di fronte all’entrata era situata la Basilica Ulpia, di cui oggi si può vedere solo il troncone
-    centrale, intitolata allo stesso Traiano, il cui nome completo era Marco Ulpio Traiano. Situata
-    trasversalmente rispetto al Foro, si apriva con tre ingressi a protiro e dava direttamente sulla
-    facciata che faceva da sfondo alla statua equestre. La facciata era parzialmente aperta, con un
-    colonnato di ordine corinzio, ed era articolata in tre avancorpi sporgenti: quello centrale tetrastilo e
-    quelli laterali con due colonne.
-    L’interno era articolato in un vasto spazio centrale, circondato sui quattro lati da 96 colonne e con
-    fusti di ordine corinzio. La navata centrale era circondata ai lati da due navate ed era dotata di un
+    Sul lato di fronte all’entrata, posta trasversalmente rispetto al Foro, era situata la Basilica Ulpia, di
+    cui oggi si può vedere solo il troncone centrale, intitolata allo stesso Traiano, il cui nome completo
+    era Marco Ulpio Traiano. Essa si apriva con tre ingressi a protiro e presentava una facciata
+    parzialmente aperta, con un colonnato di ordine corinzio, articolata in tre avancorpi sporgenti:
+    quello centrale tetrastilo e quelli laterali con due colonne.
+    L’interno prevedeva un vasto spazio centrale, circondato sui quattro lati da 96 colonne e con fusti
+    di ordine corinzio. La navata centrale era circondata ai lati da due navate ed era dotata di un
     secondo piano dove si poteva assistere ai processi che avevano sede probabilmente nelle absidi.
     Alle spalle della Basilica si trovavano due ampie sale ai lati del cortile in cui sorge la Colonna,
-    probabilmente due biblioteche. Lì erano conservati, all&#39;epoca di Aureliano, i libri lintei (scritti
-    dell’annalistica di Roma) e probabilmente i decreti dei pretori. I pavimenti erano a grandi lastre in
-    granito grigio, con fasce in marmo giallo antico.
-
+    probabilmente due biblioteche, una latina e una greca. Lì erano conservati, all&#39;epoca di Aureliano, i
+    libri lintei (scritti dell’annalistica di Roma) e probabilmente i decreti dei pretori. I pavimenti erano a
+    grandi lastre in granito grigio, con fasce in marmo giallo antico.
     Nello stretto cortile tra le due biblioteche si trovava la Colonna Traiana, l&#39;unico elemento giunto
     pressoché intatto del complesso del Foro.
     Quest’ultima, di quasi 30m, è una colonna in marmo con all’interno una scala a chiocciola che
     porta sino in sommità ed è suddivisa in tre parti:
+
     la prima, costituita dal basamento, contiene una camera funeraria e custodisce due urne d’oro che
     conservano le ceneri dell’imperatore e di sua moglie;
     segue un fusto composto da diciassette rocchi di marmo, separato dalla precedente sezione
@@ -98,45 +93,71 @@ MERCATI DI TRAIANO:
     pubbliche soprattutto di tipo amministrativo. La distribuzione degli ambienti, i loro collegamenti e
     l&#39;articolazione dei percorsi interni dovevano dipendere dalle diverse funzioni delle stanze, come
     uffici o archivi.
-    Le aree erano edificate su sei livelli, tre superiori e tre inferiori, divisi dalla via Biberatica:
-    i primi si trovavano nella zona superiore del complesso, dove la Grande Aula e il Corpo Centrale si
-    snodano tra la via Biberatica e l’area retrostante;
-    gli altri sono collocati nella zona inferiore, dove il Grande e il Piccolo Emiciclo degradano verso il
-    piano del Foro.
-    Queste sezioni erano collegate tra loro per lo più da scale, cosa che ha fatto pensare che i Mercati
-    non fossero finalizzati a un uso prettamente commerciale a causa della difficoltà di carico e scarico
-    merci. Bisogna però ricordare innanzitutto che il terreno era inclinato di 40m, essendo stata l’area
+    Le aree erano edificate su sei livelli, tre superiori e tre inferiori, divisi dalla via Biberatica, ed erano
+    collegate tra loro per lo più da scale. Ciò ha fatto pensare che i Mercati non fossero finalizzati a un
+    uso prettamente commerciale a causa della difficoltà di carico e scarico merci. Bisogna però
+    ricordare innanzitutto che il terreno era inclinato di 40m, essendo stata l’area ricavata dal Quirinale,
+    e dunque era necessaria la presenza di scale, tanto più che per il trasporto i Romani disponevano
+    di muli e schiavi; inoltre i Romani edificavano secondo standard consueti, e non avrebbero mai
+    dato a edifici pubblici la forma di tabernae isolate tra loro e collegate solo nella via esterna; infine,
+    a riprova di ciò vi è il fatto che il nome di via Biberatica, da “biber”, bibita, dimostrava l’evidente uso
+    commerciale.
 
-    ricavata dal Quirinale, e dunque era necessaria la presenza di scale, tanto più che per il trasporto i
-    Romani disponevano di muli e schiavi; inoltre i Romani edificavano secondo standard consueti, e
-    non avrebbero mai dato a edifici pubblici la forma di tabernae isolate tra loro e collegate solo nella
-    via esterna; infine, a riprova di ciò vi è il fatto che il nome di via Biberatica, da “biber”, bibita,
-    dimostrava l’evidente uso commerciale.
-
+    3
     Partendo dal piano più basso dell’intera struttura si hanno, alle due estremità del Grande Emiciclo,
-    al livello del Foro, si aprono due grandi aule semicircolari coperte da una semicupola, alle quali si
-    poteva accedere mediante un ingresso centrale.
+    al livello del Foro, due grandi aule semicircolari coperte da una semicupola, alle quali si poteva
+    accedere mediante un ingresso centrale.
+    L’Aula settentrionale, di maggiori dimensioni, si presenta con due file di finestre, mentre la porta di
+    accesso centrale era all’interno fiancheggiata da due nicchie semicircolari. Si conservano tracce
+    della pavimentazione marmorea, originariamente in lastre rettangolari e quadrangolari, e del
+    rivestimento marmoreo parietale.
+    L’Aula meridionale, dotata di una sola fila di tre grandi finestre e priva di nicchie all’interno, doveva
+    presentarsi con un aspetto abbastanza simile a quello della sua gemella. I ritti, pali di sostegno,
+    dimostrano una fondazione pre-traianea, mentre nella fase successiva le loro impronte vennero
+    risarcite in laterizio. A questa medesima fase appartengono probabilmente la pavimentazione e il
+    rivestimento parietale in lastre di marmo di cui si conservano scarse tracce.
     Il Grande Emiciclo costituisce la parte del complesso a più diretto contatto con il Foro di Traiano,
     come dimostra la particolare cura della muratura in laterizio e del sistema decorativo della facciata.
     Lo stesso andamento semicircolare è dovuto alla presenza della concentrica esedra del Foro, e
-    contemporaneamente costituisce un mezzo per contenere il taglio delle pendici del colle. La
-    struttura a gradoni venne occupata da strutture di profondità progressivamente maggiore salendo
-    verso i piani superiori. Due scale disposte alle estremità assicurano i collegamenti verticali.
+    contemporaneamente costituisce un mezzo per contenere il taglio delle pendici del colle.
+    Al piano del Foro si aprono undici ambienti poco profondi, coperti da piccole volte a botte nascoste
+    dalla tipica facciata a taberna. I vani sono pavimentati con mosaici a disegni geometrici in bianco e
+    nero e le pareti conservano resti di affreschi, entrambi di età severiana. Si conservano tracce di
+    mosaici con disegni simili e di una diversa decorazione affrescata di una fase precedente,
+    probabilmente traianea.
+    Al secondo piano un corridoio semi-anulare coperto da una volta a botte e pavimentato con opus
+    spicatum, prende luce dalle finestre aperte in facciata.
+    Il terzo piano presenta una terrazza esterna che costituiva probabilmente un percorso di servizio, e
+    una serie di ambienti, per la maggior parte non conservati, aperti verso la via Biberatica.
     A nord del Grande Emiciclo, si ha il Piccolo Emiciclo, una struttura con ambienti disposti su tre
-    livelli: un tratto assume infatti un andamento concentrico intorno all’ambiente alle spalle dell’Aula di
-    testata settentrionale.
+    livelli da una pianta simile.
+    Al piano inferiore sono presenti dei vani voltati che si affacciano su un corridoio semicircolare,
+    scarsamente illuminato, che prosegue rettilineo a nord. Vi si trovano altri vani e una scala che sale
+    verso il piano superiore. Al secondo piano, che corrisponde al livello della via Biberatica, si ripete il
+    corridoio ad andamento semicircolare, illuminato qui da ampie finestre. Un terzo piano è
+    accessibile da una scala esterna e presenta ambienti che si aprono su un corridoio, mentre la
+    parte settentrionale è attualmente sede di una scuola.
     Il percorso della via Biberatica rappresenta la cerniera tra la parte superiore e quella inferiore del
-    complesso. Il tratto rettilineo più settentrionale conserva ancora l’immagine di una via urbana della
-    città antica.
+    complesso. Due scale disposte alle estremità assicurano i collegamenti verticali.
     Segue il Corpo Centrale, l’edificio che sorge tra la via Biberatica a valle e l’area del Giardino delle
     Milizie, con tre piani di ambienti e tabernae aperte sulla via Biberatica. La facciata sulla via
     Biberatica rappresenta al meglio le trasformazioni subite in epoca post-antica: alle strutture
     romane in laterizio, infatti, si sovrappone una parziale ricostruzione quattrocentesca, con muratura
     più irregolare e utilizzo di materiali di risulta.
+    Gli ambienti del primo piano sono di forma irregolare, privi di tracce di porte antiche, e terminano
+    con una sala semicircolare coperta da una semicupola ribassata.
+    Al secondo piano sono presenti una sala absidata e ambienti di pianta irregolare ma
+    particolarmente curati. Il terzo piano ripropone ambienti distribuiti in modo analogo, ma assai meno
+    curati.
+    Queste aree non comunicavano con l’edificio della Grande Aula, a differenza di oggi, infatti,
+    l’accesso avveniva per mezzo di un portale sulla via della Torre.
     Lo spazio centrale della Grande Aula è fiancheggiato da ambienti disposti su tre livelli e coperti da
-    volte a botte. Al piano terra si affacciano direttamente sull’Aula, mentre al secondo piano si aprono
-    su corridoi scoperti delimitati da pilastri. Sul lato orientale (a monte) è presente anche un terzo
-    piano, con ambienti accessibili dalla scala dei piani superiori.
+    volte a botte. Il piano terra dà direttamente sull’Aula settentrionale, mentre il secondo piano
+    prevede corridoi scoperti delimitati da pilastri. Sul lato orientale è presente anche un terzo piano,
+    con ambienti accessibili dalla scala dei piani superiori.
+
+    4
     A monte degli edifici del Corpo Centrale e della Grande Aula si trova un percorso denominato “via
     della Torre”, i cui resti possono essere per la maggior parte attribuiti a un intervento di età
-    severiana (fine del II secolo d.C.).
+    severiana (fine del II secolo d.C.). Qui venne edificato nel Medioevo un monastero dedicato a
+    Santa Caterina da Siena.
