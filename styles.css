@@ -122,6 +122,7 @@ body {
 }
 
 .SubPage-Title-text {
+    text-transform: uppercase;
     font-size: 2em;
     border-bottom: 2px solid palevioletred;
 }
@@ -140,9 +141,6 @@ body {
 .BottomContentContainer {
     display: flex;
     justify-content: center;
-
-    border-left: 2px solid gray;
-    border-right: 2px solid gray;
 }
 
 .SingleContentContainer {
@@ -155,4 +153,43 @@ body {
 
 .BottomHomeImage {
     width: 100%;
+}
+
+.ImageCarouselContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.ImageCarouselLink {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 22em;
+    height: 30em;
+    background-color: #565656;
+    transition: all 0.4s;
+    margin: 0px 2em;
+    display: flex;
+    justify-content: center;
+}
+
+.ImageCarouselLink:hover {
+
+}
+
+.ImageLink {
+    font-size: 2em;
+    text-decoration: none;
+    text-align: center;
+    line-height: 15em;
+    color: #ffffff00;
+    width: 22em;
+    height: 15em;
+    transition: all 0.4s;
+}
+
+.ImageLink:hover {
+    background-color: #00000044;
+    color: white;
+    transition: all 0.2s;
 }
