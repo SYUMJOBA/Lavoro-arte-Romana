@@ -58,7 +58,7 @@ FORO DI TRAIANO:
     imprese militari di Traiano nei confronti dei daci;
     alla sommità si trova un capitello originariamente con una statua di Traiano, ma ora sostituita con
     una statua di San Pietro.
-    All’imperatore fu dedicato un tempio, inaugurato da Adriano, che è stato posto in collegamento con
+    All'imperatore fu dedicato un tempio, inaugurato da Adriano, che è stato posto in collegamento con
     il Foro, ma niente è finora noto del suo aspetto e della sua ubicazione. La teoria più accreditata lo
     collocava a nord della Colonna ma le indagini nei sotterranei degli edifici non hanno evidenziato
     alcuna traccia delle fondamenta.
@@ -93,6 +93,8 @@ MERCATI DI TRAIANO:
     pubbliche soprattutto di tipo amministrativo. La distribuzione degli ambienti, i loro collegamenti e
     l&#39;articolazione dei percorsi interni dovevano dipendere dalle diverse funzioni delle stanze, come
     uffici o archivi.
+
+
     Le aree erano edificate su sei livelli, tre superiori e tre inferiori, divisi dalla via Biberatica, ed erano
     collegate tra loro per lo più da scale. Ciò ha fatto pensare che i Mercati non fossero finalizzati a un
     uso prettamente commerciale a causa della difficoltà di carico e scarico merci. Bisogna però
@@ -103,7 +105,6 @@ MERCATI DI TRAIANO:
     a riprova di ciò vi è il fatto che il nome di via Biberatica, da “biber”, bibita, dimostrava l’evidente uso
     commerciale.
 
-    3
     Partendo dal piano più basso dell’intera struttura si hanno, alle due estremità del Grande Emiciclo,
     al livello del Foro, due grandi aule semicircolari coperte da una semicupola, alle quali si poteva
     accedere mediante un ingresso centrale.
@@ -116,6 +117,8 @@ MERCATI DI TRAIANO:
     dimostrano una fondazione pre-traianea, mentre nella fase successiva le loro impronte vennero
     risarcite in laterizio. A questa medesima fase appartengono probabilmente la pavimentazione e il
     rivestimento parietale in lastre di marmo di cui si conservano scarse tracce.
+
+
     Il Grande Emiciclo costituisce la parte del complesso a più diretto contatto con il Foro di Traiano,
     come dimostra la particolare cura della muratura in laterizio e del sistema decorativo della facciata.
     Lo stesso andamento semicircolare è dovuto alla presenza della concentrica esedra del Foro, e
@@ -129,6 +132,8 @@ MERCATI DI TRAIANO:
     spicatum, prende luce dalle finestre aperte in facciata.
     Il terzo piano presenta una terrazza esterna che costituiva probabilmente un percorso di servizio, e
     una serie di ambienti, per la maggior parte non conservati, aperti verso la via Biberatica.
+
+
     A nord del Grande Emiciclo, si ha il Piccolo Emiciclo, una struttura con ambienti disposti su tre
     livelli da una pianta simile.
     Al piano inferiore sono presenti dei vani voltati che si affacciano su un corridoio semicircolare,
@@ -137,8 +142,12 @@ MERCATI DI TRAIANO:
     corridoio ad andamento semicircolare, illuminato qui da ampie finestre. Un terzo piano è
     accessibile da una scala esterna e presenta ambienti che si aprono su un corridoio, mentre la
     parte settentrionale è attualmente sede di una scuola.
+
+
     Il percorso della via Biberatica rappresenta la cerniera tra la parte superiore e quella inferiore del
     complesso. Due scale disposte alle estremità assicurano i collegamenti verticali.
+
+
     Segue il Corpo Centrale, l’edificio che sorge tra la via Biberatica a valle e l’area del Giardino delle
     Milizie, con tre piani di ambienti e tabernae aperte sulla via Biberatica. La facciata sulla via
     Biberatica rappresenta al meglio le trasformazioni subite in epoca post-antica: alle strutture
@@ -151,12 +160,14 @@ MERCATI DI TRAIANO:
     curati.
     Queste aree non comunicavano con l’edificio della Grande Aula, a differenza di oggi, infatti,
     l’accesso avveniva per mezzo di un portale sulla via della Torre.
+
+
     Lo spazio centrale della Grande Aula è fiancheggiato da ambienti disposti su tre livelli e coperti da
     volte a botte. Il piano terra dà direttamente sull’Aula settentrionale, mentre il secondo piano
     prevede corridoi scoperti delimitati da pilastri. Sul lato orientale è presente anche un terzo piano,
     con ambienti accessibili dalla scala dei piani superiori.
 
-    4
+
     A monte degli edifici del Corpo Centrale e della Grande Aula si trova un percorso denominato “via
     della Torre”, i cui resti possono essere per la maggior parte attribuiti a un intervento di età
     severiana (fine del II secolo d.C.). Qui venne edificato nel Medioevo un monastero dedicato a

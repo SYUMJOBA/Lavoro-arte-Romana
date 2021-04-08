@@ -193,3 +193,7 @@ body {
     color: white;
     transition: all 0.2s;
 }
+
+#Separator {
+    height: 2em;
+}
