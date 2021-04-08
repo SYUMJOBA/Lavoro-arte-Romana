@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
 body {
     background-color: #565656;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Cinzel", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     overflow-x: hidden;
 }
 
@@ -24,9 +26,9 @@ body {
 .HomeButton {
     width: 100%;
     font-size: larger;
+    font-weight: 700;
     color: black;
     text-align: center;
-    font-weight: 400;
     text-decoration: none;
     transition: all 0.2s;
 }
@@ -59,8 +61,9 @@ body {
 
 .Title-text {
     font-size: 2em;
+    font-weight: 700;
     text-transform: uppercase;
-    border-bottom: 4px solid blueviolet;
+    border-bottom: 2px solid blueviolet;
 }
 
 .BottomNavbar {
@@ -79,12 +82,12 @@ body {
 .NavLink {
     text-align: center;
     color: black;
-    font-weight: 400;
+    font-weight: 700;
     text-decoration: none;
     text-transform: uppercase;
     padding: 4px 0px 2px 0px;
     margin: 0px 1em;
-    border-bottom: 4px solid gray;
+    border-bottom: 2px solid gray;
     transition: border 0.4s;
     width: 10em;
     transition: all 0.2s;
@@ -112,7 +115,7 @@ body {
     padding: 10px 0px;
     text-transform: uppercase;
     color: gray;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 4em;
 
 
@@ -120,7 +123,7 @@ body {
 
 .SubPage-Title-text {
     font-size: 2em;
-    border-bottom: 4px solid palevioletred;
+    border-bottom: 2px solid palevioletred;
 }
 
 .ContentContainer {
@@ -138,18 +141,18 @@ body {
     display: flex;
     justify-content: center;
 
-    border-left: 4px solid gray;
-    border-right: 4px solid gray;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
 }
 
 .SingleContentContainer {
     font-size: 2em;
     margin-left: 1em;
     margin-right: 1em;
-    border-top: 4px solid gray;
-    border-bottom: 4px solid gray;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
 }
 
 .BottomHomeImage {
-    background-image: url();
+    width: 100%;
 }
