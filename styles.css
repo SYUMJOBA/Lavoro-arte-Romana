@@ -108,6 +108,8 @@ body {
 .CapitalText {
     margin-top: 8px;
 
+    background-color: white;
+    padding: 10px 0px;
     text-transform: uppercase;
     color: gray;
     font-weight: 500;
